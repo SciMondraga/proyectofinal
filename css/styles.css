@@ -138,6 +138,12 @@ h1,h2,h3 {
         width: auto;
     }
 }
+
+.sub{
+
+    color: #ffffff;
+
+}
 .flex {
     display: flex;
 }
